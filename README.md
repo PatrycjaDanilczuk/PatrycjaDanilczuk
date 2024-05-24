@@ -8,7 +8,7 @@
 
 ### Tools I use:
 - :bar_chart: **Data Analytics:** SQL, Python, Excel, Spreadsheets
-- :wrench: **Data Manipulation:** Pandas, NumPy, Power Query
+- :wrench: **Data Manipulation:** Pandas, NumPy, Power Query Editor
 - :chart_with_downwards_trend: **Data Visualisation:** Tableau, Power BI, Plotly, Seaborn, Matplotlib
 - :computer: **Other:** QlickView, IBM SPSS, R2, Google Colab, Jupyter Notebook
   
