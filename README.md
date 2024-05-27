@@ -9,7 +9,7 @@
 ### Tools I use:
 - :bar_chart: **Data Analytics:** SQL, Python, Excel, Spreadsheets
 - :wrench: **Data Manipulation:** Pandas, NumPy, Power Query Editor
-- :chart_with_downwards_trend: **Data Visualisation:** Tableau, Power BI, Plotly, Seaborn, Matplotlib
+- :chart_with_downwards_trend: **Data Visualisation:** Tableau, Power BI, Plotly.express, Seaborn, Matplotlib
 - :computer: **Other:** QlickView, IBM SPSS, R2, Google Colab, Jupyter Notebook
   
 ### :speech_balloon: How to reach me: [LinkedIn](https://www.linkedin.com/in/patrycja-danilczuk/)
