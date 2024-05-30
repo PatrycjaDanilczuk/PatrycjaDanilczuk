@@ -3,9 +3,9 @@
 ### Experienced C-level manager, Financial Specialist, Insurance Broker, Legal Advisor turned full-time Data Analyst
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/PatrycjaDanilczuk/PatrycjaDanilczuk/blob/main/GitHub.jpg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/PatrycjaDanilczuk/PatrycjaDanilczuk/blob/main/GitHub.jpg">
-  <img alt="Shows laptop with charts on a desktop in an office" src="https://github.com/PatrycjaDanilczuk/PatrycjaDanilczuk/blob/main/GitHub.jpg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/PatrycjaDanilczuk/PatrycjaDanilczuk/blob/main/Dashboard.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/PatrycjaDanilczuk/PatrycjaDanilczuk/blob/main/Dashboard.png">
+  <img alt="Shows dashboard in dark mode" src="https://github.com/PatrycjaDanilczuk/PatrycjaDanilczuk/blob/main/Dashboard.png">
 </picture>
 
 ### My areas of expertise: 
