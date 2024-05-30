@@ -12,7 +12,15 @@
 - :chart_with_downwards_trend: **Data Visualisation:** Tableau, Power BI, Plotly.express, Seaborn, Matplotlib
 - :computer: **Other:** QlickView, IBM SPSS, R2, Google Colab, Jupyter Notebook
   
-### :speech_balloon: How to reach me: [LinkedIn](https://www.linkedin.com/in/patrycja-danilczuk/)
+### :speech_balloon: How to reach me: 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/patrycja-danilczuk/) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/PatrycjaDanilczuk)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PatrycjaDanilczuk)](https://github.com/anuraghazra/github-readme-stats)
+
+![I am GitHub Readme Generator's creator](https://search.app.goo.gl/BdYusQS)
+
+ 
 
 <!---
 PatrycjaDanilczuk/PatrycjaDanilczuk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
