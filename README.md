@@ -24,13 +24,13 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PatrycjaDanilczuk)](https://github.com/anuraghazra/github-readme-stats)
 
-<!---
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/PatrycjaDanilczuk/PatrycjaDanilczuk/blob/main/GitHub.jpg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/PatrycjaDanilczuk/PatrycjaDanilczuk/blob/main/GitHub.jpg">
-  <img alt="Shows laptop with charts on a desktop in an office" src="https://github.com/PatrycjaDanilczuk/PatrycjaDanilczuk/blob/main/GitHub.jpg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/PatrycjaDanilczuk/PatrycjaDanilczuk/blob/main/BigData.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/PatrycjaDanilczuk/PatrycjaDanilczuk/blob/main/BigData.png">
+  <img alt="Shows Big Data Analystics sign in dark mode" src="https://github.com/PatrycjaDanilczuk/PatrycjaDanilczuk/blob/main/BigData.png">
 </picture>
---->
+
 <!---
 PatrycjaDanilczuk/PatrycjaDanilczuk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
