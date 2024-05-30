@@ -9,8 +9,9 @@
 </picture>
 
 ### My areas of expertise: 
-  - :dart: providing strategic decision support through effective analytics
+  - :dart: turning complex data into actionable insights for problem-solving, business planning and strategic decision-making
   - :chart_with_upwards_trend: business processes improvement through analytics and technological innovation
+  - :bar_chart: effective visualisations and presentations
 
 ### Tools I use:
 - :bar_chart: **Data Analytics:** SQL, Python, Excel, Spreadsheets
