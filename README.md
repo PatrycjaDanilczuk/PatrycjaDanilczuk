@@ -17,7 +17,7 @@
 - :bar_chart: **Data Analytics:** SQL, Python, Excel, Spreadsheets
 - :wrench: **Data Manipulation:** Pandas, NumPy, Power Query Editor
 - :chart_with_downwards_trend: **Data Visualisation:** Tableau, Power BI, Plotly.express, Seaborn, Matplotlib
-- :computer: **Other:** QlickView, IBM SPSS, R2, Google Colab, Jupyter Notebook
+- :computer: **Other:** QlickView, IBM SPSS, R2, Google Colab, Jupyter Notebook, PowerPoint
   
 ### :speech_balloon: How to reach me: 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/patrycja-danilczuk/) 
